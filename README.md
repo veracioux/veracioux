@@ -2,10 +2,17 @@
 vim: shiftwidth=2
 -->
 
+<p align="center">
+  <img src="./hello.svg">
+  <br>
+  <a href="https://matrix.to/#/@veracioux:matrix.org">
+    <img src="https://img.shields.io/static/v1?label=chat&message=matrix&color=%23c2185b">
+  </a>
+</p>
+
 **About me**
 
-![](https://img.shields.io/badge/release%20date-1999-%236980fa)
-[![](https://img.shields.io/static/v1?label=chat&message=matrix&color=%23C2185B)](https://matrix.to/#/@veracioux:matrix.org)
+![](https://img.shields.io/badge/version-22-%236980fa)
 
 <!-- TODO -->
 
