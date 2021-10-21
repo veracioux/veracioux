@@ -57,7 +57,8 @@ vim: shiftwidth=2
   </ul>
 
 <!-- TODO add tem after git -->
-
+---
+<div align="center">
 <table>
   <tr>
     <td>
@@ -119,5 +120,7 @@ vim: shiftwidth=2
   A better way to learn the CLI
 </th>
 </tr></table>
+<div>
+
 
 ![](https://hit.yhype.me/github/profile?user_id=29044423)
