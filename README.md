@@ -16,42 +16,42 @@ vim: shiftwidth=2
 
 <!-- TODO -->
 
-- Automation & Electronics engineer | Graduate student
+- Automation & Electronics engineer • Graduate student
 - Self-taught programmer
 - Love using and contributing to open source projects
 - Workflow:
   <ul>
     <li>
       <a href="https://archlinux.org">
-        <img align="center" height="25" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"> |
-      </a>
+        <img align="center" height="25" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png">
+      </a> <sub>●</sub>
       <a href="https://github.com/veracioux/dotfiles">
-        <img align="center" height="25" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/git/git.png">
-        <code>dotfiles</code>
-      </a> |
+        <img align="center" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/120px-Git-logo-orange.svg.png">
+        <sub><code>dotfiles</code></sub>
+      </a> <sub>●</sub>
       <a href="https://i3wm.org"><img align="center" height="17" src="https://i3wm.org/img/logo.svg"></a>
     </li>
     <li>
       <a href="https://github.com/alacritty/alacritty">
         <img align="center" height="17" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png">
-        <code>alacritty</code></a> |
+        <sub><code>alacritty</code></sub></a> <sub>●</sub>
         <a href="https://fishshell.com">
           <img align="center" height="22" src="https://fishshell.com/docs/current/_static/fish.png">
-          <code>fish</code>
+          <sub><code>fish</code></sub>
         </a>
     </li>
     <li>
       <a href="https://neovim.io">
         <img align="center" height="17" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png">
-      </a> |
+      </a> <sub>●</sub>
       <a href="https://www.gnu.org/software/emacs/emacs.html">
         <img align="center" height="17" src="https://www.gnu.org/software/emacs/images/emacs.png">
-        <code>Emacs</code>
+        <sub><code>Emacs</code></sub>
       </a>
     </li>
     <li>
       <a href="https://git-scm.com">
-        <img align="center" height="25" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/git/git.png">
+        <img align="center" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/120px-Git-logo-orange.svg.png">
       </a>
     </li>
   </ul>
@@ -66,7 +66,7 @@ vim: shiftwidth=2
       <a>
       <img align="center" height="40" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
       <img align="center" height="33" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png">
-      <img align="center" height="60" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/qt/qt.png">
+      <img align="center" height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/150px-Qt_logo_2016.svg.png">
       <img align="center" height="46" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png">
       </a>
     </td>
