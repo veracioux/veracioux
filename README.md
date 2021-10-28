@@ -107,8 +107,9 @@ vim: shiftwidth=2
   <a href="https://flameshot.org">
     <img height="14" src="https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/app/org.flameshot.Flameshot.svg"/>
     Flameshot
-  </a><br>
-  The best screenshot tool :heart:
+  </a><br/>
+  The best screenshot tool :heart: <br/>
+  <code>(<a href="https://github.com/search?q=repo%3Aflameshot-org%2Fflameshot+author%3Averacioux">my contributions</a>)</code>
 </th>
 <th>
   <p>
@@ -116,8 +117,9 @@ vim: shiftwidth=2
       <img height="150" src="https://gist.github.com/veracioux/66336d488e8d87c7b3fb696c5dbd93d1/raw/4b8bc0b043faf166abc92e12fc0bfb5acea55345/tuterm-demo.svg">
     </a>
   </p>
-  <a href="https://github.com/veracioux/tuterm">Tuterm</a><br>
-  A better way to learn the CLI
+  <a href="https://github.com/veracioux/tuterm">Tuterm</a><br/>
+  A better way to learn the CLI <br/>
+  <code>(original creator)</code>
 </th>
 </tr></table>
 <div>
