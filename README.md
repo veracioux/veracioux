@@ -101,7 +101,7 @@ vim: shiftwidth=2
 <th>
   <p>
     <a href="https://flameshot.org">
-      <img height="150" src="https://raw.githubusercontent.com/flameshot-org/flameshot-org.github.io/master/docs/media/animatedUsage.gif">
+      <img height="150" src="https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/preview/animatedUsage.gif">
     </a>
   </p>
   <a href="https://flameshot.org">
