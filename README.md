@@ -101,36 +101,39 @@ vim: shiftwidth=2
 
 <b>Projects I've worked on that you may find useful</b>
 
-<table><tr>
-<th>
-  <p>
+<table>
+<tr>
+  <th colspan="2">
+    <p>
+      <a href="https://flameshot.org">
+        <img height="180" src="https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/preview/animatedUsage.gif">
+      </a>
+    </p>
     <a href="https://flameshot.org">
-      <img height="150" src="https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/preview/animatedUsage.gif">
-    </a>
-  </p>
-  <a href="https://flameshot.org">
-    <img height="14" src="https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/app/org.flameshot.Flameshot.svg"/>
-    Flameshot
-  </a><br/>
-  The best screenshot tool :heart: <br/>
-  <code>(<a href="https://github.com/search?q=repo%3Aflameshot-org%2Fflameshot+author%3Averacioux">my contributions</a>)</code>
-</th>
-<th>
-  <p>
-    <a href="https://github.com/veracioux/tuterm">
-      <img height="150" src="https://gist.github.com/veracioux/66336d488e8d87c7b3fb696c5dbd93d1/raw/4b8bc0b043faf166abc92e12fc0bfb5acea55345/tuterm-demo.svg">
-    </a>
-  </p>
-  <a href="https://github.com/veracioux/tuterm">Tuterm</a><br/>
-  A better way to learn the CLI <br/>
-  <code>(original creator)</code>
-</th>
-<th>
-  <a href="https://github.com/veracioux/shdocker">Shdocker</a><br/>
-  Don't repeat your Dockerfiles<br/>
-  <code>(original creator)</code>
-</th>
-</tr></table>
+      <img height="14" src="https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/app/org.flameshot.Flameshot.svg"/>
+      Flameshot
+    </a><br/>
+    The best screenshot tool :heart: <br/>
+    <code>(<a href="https://github.com/search?q=repo%3Aflameshot-org%2Fflameshot+author%3Averacioux">my contributions</a>)</code>
+  </th>
+</tr>
+  <th>
+    <p>
+      <a href="https://github.com/veracioux/tuterm">
+        <img height="150" src="https://gist.github.com/veracioux/66336d488e8d87c7b3fb696c5dbd93d1/raw/4b8bc0b043faf166abc92e12fc0bfb5acea55345/tuterm-demo.svg">
+      </a>
+    </p>
+    <a href="https://github.com/veracioux/tuterm">Tuterm</a><br/>
+    A better way to learn the CLI <br/>
+    <code>(original creator)</code>
+  </th>
+  <th>
+    <a href="https://github.com/veracioux/shdocker">Shdocker</a><br/>
+    Don't repeat your Dockerfiles<br/>
+    <code>(original creator)</code>
+  </th>
+</tr>
+</table>
 <div>
 
 
