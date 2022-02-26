@@ -64,16 +64,20 @@ vim: shiftwidth=2
     <td>
       <b>Languages & Frameworks</b> <br>
       <a>
-      <img align="center" height="40" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
-      <img align="center" height="33" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png">
-      <img align="center" height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/150px-Qt_logo_2016.svg.png">
       <img align="center" height="46" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png">
+      <img align="center" height="46" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png">
+      <img align="center" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+      <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+      <img align="center" height="36" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
+      <img align="center" height="29" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png">
+      <img align="center" height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/150px-Qt_logo_2016.svg.png">
       </a>
     </td>
     <td>
       <b>Other tools</b> <br>
       <!-- TODO add cmake -->
       <a>
+        <img align="center" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
         <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/linux/linux.png">
         <img align="center" height="55" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/bash/bash.png">
         <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/latex/latex.png">
@@ -119,6 +123,11 @@ vim: shiftwidth=2
   </p>
   <a href="https://github.com/veracioux/tuterm">Tuterm</a><br/>
   A better way to learn the CLI <br/>
+  <code>(original creator)</code>
+</th>
+<th>
+  <a href="https://github.com/veracioux/shdocker">Shdocker</a><br/>
+  Don't repeat your Dockerfiles<br/>
   <code>(original creator)</code>
 </th>
 </tr></table>
