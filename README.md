@@ -91,7 +91,7 @@ vim: shiftwidth=2
   <tr>
     <td colspan="2">
       <a>
-        <img src="https://github-readme-stats.vercel.app/api?username=veracioux&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=buefy">
+        <img src="https://github-readme-stats.vercel.app/api?username=veracioux&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&icon_color=ec407a&title_color=ff3860&text_color=7c4dff&bg_color=00000000">
       </a>
     </td>
   </tr>
