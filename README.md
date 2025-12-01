@@ -64,29 +64,29 @@ vim: shiftwidth=2
      <td>
        <b>Languages & Frameworks</b> <br>
        <a>
-       <img align="center" height="30" src="./icons/python.svg">
-       <img align="center" height="30" src="./icons/typescript.svg">
-       <img align="center" height="30" src="./icons/golang.svg">
-       <img align="center" height="30" src="./icons/c.svg">
-       <img align="center" height="30" src="./icons/cpp.svg">
-       <img align="center" height="30" src="./icons/java.svg">
-       <img align="center" height="30" src="./icons/nodejs.svg">
-       <img align="center" height="30" src="./icons/angular.svg">
-       <img align="center" height="30" src="./icons/nestjs.svg">
-       <img align="center" height="30" src="./icons/postgres.svg">
-       <img align="center" height="30" src="./icons/redis.svg">
-       <img align="center" height="30" src="./icons/vue.svg">
-       <img align="center" height="30" src="./icons/nginx.svg">
-       <img align="center" height="30" src="./icons/react.svg">
+       <img align="center" height="30" src="./icons/python.svg">&nbsp;
+       <img align="center" height="30" src="./icons/typescript.svg">&nbsp;
+       <img align="center" height="30" src="./icons/golang.svg">&nbsp;
+       <img align="center" height="30" src="./icons/c.svg">&nbsp;
+       <img align="center" height="30" src="./icons/cpp.svg">&nbsp;
+       <img align="center" height="30" src="./icons/java.svg">&nbsp;
+       <img align="center" height="30" src="./icons/nodejs.svg">&nbsp;
+       <img align="center" height="30" src="./icons/angular.svg">&nbsp;
+       <img align="center" height="30" src="./icons/nestjs.svg">&nbsp;
+       <img align="center" height="30" src="./icons/postgres.svg">&nbsp;
+       <img align="center" height="30" src="./icons/redis.svg">&nbsp;
+       <img align="center" height="30" src="./icons/vue.svg">&nbsp;
+       <img align="center" height="30" src="./icons/nginx.svg">&nbsp;
+       <img align="center" height="30" src="./icons/react.svg">&nbsp;
        <img align="center" height="30" src="./icons/qt.svg">
        </a>
      </td>
      <td>
        <b>Other tools</b> <br>
        <a>
-         <img align="center" height="30" src="./icons/docker.svg">
-         <img align="center" height="30" src="./icons/git-with-text.svg">
-         <img align="center" height="30" src="./icons/linux.svg">
+         <img align="center" height="30" src="./icons/docker.svg">&nbsp;
+         <img align="center" height="30" src="./icons/git-with-text.svg">&nbsp;
+         <img align="center" height="30" src="./icons/linux.svg">&nbsp;
          <img align="center" height="30" src="./icons/bash-dark.svg">
        </a>
      </td>
