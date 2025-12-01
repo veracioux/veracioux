@@ -18,17 +18,17 @@ vim: shiftwidth=2
 I'm a self-taught full-stack software engineer, primarily web-based but skilled
 in various other languages and paradigms.
 
-### About me
+### About me 👨‍💻
 
 ![](./badges/version.svg)
 
-- Working at <a href="https://enocean.com">EnOcean</a>
-- 4 years of experience as a full-stack web engineer, 5+ more years as a hobbyist
-- Self-taught programmer
-- Love using and contributing to open source projects
-- Bachelor's in Automation & Electronics
+- 💼 Working at <a href="https://enocean.com">EnOcean</a>
+- 📅 4 years of experience as a full-stack web engineer, 5+ more years as a hobbyist
+- 📚 Self-taught programmer
+- ❤️ Love using and contributing to open source projects
+- 🎓 Bachelor's in Automation & Electronics
 
-### Workflow
+### Workflow 🛠️
   <ul>
     <li>
       <a href="https://archlinux.org">
@@ -157,7 +157,7 @@ in various other languages and paradigms.
       </a>
     </p>
     <a href="https://opencode.ai">Opencode</a><br/>
-    The AI coding agent built for the terminal<br/>
+    The AI coding agent built for the terminal 🤖<br/>
     <code>(<a href="https://github.com/search?q=repo%3Asst%2Fopencode+author%3Averacioux&type=pullrequests">my contributions</a>)</code>
   </th>
 </tr>
@@ -169,12 +169,12 @@ in various other languages and paradigms.
       </a>
     </p>
     <a href="https://github.com/veracioux/tuterm">Tuterm</a><br/>
-    A better way to learn the CLI <br/>
+    A better way to learn the CLI 📖 <br/>
     <code>(original creator)</code>
   </th>
   <th>
     <a href="https://github.com/veracioux/shdocker">Shdocker</a><br/>
-    Don't repeat your Dockerfiles<br/>
+    Don't repeat your Dockerfiles 🐳<br/>
     <code>(original creator)</code>
   </th>
 </tr>
