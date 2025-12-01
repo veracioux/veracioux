@@ -71,6 +71,10 @@ in various other languages and paradigms.
       </a> <sub>●</sub>
       <a href="https://opencode.ai">
         <img align="center" height="15" src="./icons/opencode.svg">
+      </a> <sub>●</sub>
+      <a href="https://www.docker.com">
+        <img align="center" height="25" src="./icons/docker.svg">
+        <sub><code>Docker</code></sub>
       </a>
     </li>
   </ul>
