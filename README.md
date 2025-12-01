@@ -122,16 +122,16 @@ vim: shiftwidth=2
 <tr>
   <th>
     <p>
-      <a href="https://flameshot.org">
+      <a href="https://github.com/flameshot-org/flameshot">
         <img height="180" src="https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/preview/animatedUsage.gif">
       </a>
     </p>
-    <a href="https://flameshot.org">
+    <a href="https://github.com/flameshot-org/flameshot">
       <img height="14" src="https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/app/org.flameshot.Flameshot.svg"/>
       Flameshot
     </a><br/>
     The best screenshot tool :heart: <br/>
-    <code>(<a href="https://github.com/search?q=repo%3Aflameshot-org%2Fflameshot+author%3Averacioux">my contributions</a>)</code>
+    <code>(<a href="https://github.com/search?q=repo%3Aflameshot-org%2Fflameshot+author%3Averacioux&type=pullrequests">my contributions</a>)</code>
   </th>
   <th>
     <p>
@@ -141,7 +141,7 @@ vim: shiftwidth=2
     </p>
     <a href="https://opencode.ai">Opencode</a><br/>
     The AI coding agent built for the terminal<br/>
-    <code>(<a href="https://github.com/search?q=repo%3Asst%2Fopencode+author%3Averacioux">my contributions</a>)</code>
+    <code>(<a href="https://github.com/search?q=repo%3Asst%2Fopencode+author%3Averacioux&type=pullrequests">my contributions</a>)</code>
   </th>
 </tr>
 <tr>
