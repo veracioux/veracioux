@@ -12,7 +12,7 @@ vim: shiftwidth=2
 
 **About me**
 
-![](https://img.shields.io/badge/version-23-%236980fa)
+![](./badges/version.svg)
 
 <!-- TODO -->
 
