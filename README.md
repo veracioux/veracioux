@@ -6,7 +6,10 @@ vim: shiftwidth=2
   <img src="./hello.svg">
   <br>
   <a href="https://matrix.to/#/@veracioux:matrix.org">
-    <img src="https://img.shields.io/static/v1?label=chat&message=matrix&color=%23c2185b">
+    <img src="./badges/matrix.svg">
+  </a>
+  <a href="https://discord.com/users/881170878799417354">
+    <img src="./badges/discord.svg">
   </a>
 </p>
 
