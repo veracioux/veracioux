@@ -53,6 +53,10 @@ vim: shiftwidth=2
       <a href="https://www.gnu.org/software/emacs/emacs.html">
         <img align="center" height="22" src="./icons/emacs.svg">
         <sub><code>Emacs</code></sub>
+      </a> <sub>●</sub>
+      <a href="https://code.visualstudio.com/">
+        <img align="center" height="22" src="./icons/vscode.svg">
+        <sub><code>VSCode</code></sub>
       </a>
     </li>
     <li>
