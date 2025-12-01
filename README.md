@@ -122,7 +122,7 @@ in various other languages and paradigms.
     <td>
       <a href="https://github-readme-stats.vercel.app/">
         <img
-       alt="GitHub stats failed to load"   src="https://github-readme-stats.vercel.app/api?username=veracioux&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&icon_color=ec407a&title_color=ff3860&text_color=7c4dff&bg_color=00000000"
+       alt="GitHub stats unavailable"   src="https://github-readme-stats.vercel.app/api?username=veracioux&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&icon_color=ec407a&title_color=ff3860&text_color=7c4dff&bg_color=00000000"
         />
       </a>
     </td>
