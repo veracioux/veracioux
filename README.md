@@ -32,7 +32,10 @@ vim: shiftwidth=2
         <img align="center" height="15" src="./icons/git.svg">
         <sub><code>dotfiles</code></sub>
       </a> <sub>●</sub>
-      <a href="https://i3wm.org"><img align="center" height="17" src="./icons/i3.svg"></a>
+      <a href="https://i3wm.org">
+        <img align="center" height="17" src="./icons/i3.svg">
+        <sub><code>i3wm</code></sub>
+      </a>
     </li>
     <li>
       <a href="https://github.com/alacritty/alacritty">
@@ -54,7 +57,7 @@ vim: shiftwidth=2
     </li>
     <li>
       <a href="https://git-scm.com">
-        <img align="center" height="15" src="./icons/git.svg">
+        <img align="center" height="15" src="./icons/git-with-text.svg">
       </a>
     </li>
   </ul>
