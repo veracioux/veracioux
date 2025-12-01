@@ -18,15 +18,22 @@ vim: shiftwidth=2
 I'm a self-taught full-stack software engineer, primarily web-based but skilled
 in various other languages and paradigms.
 
+<div align="center">
+
 ### About me
+
 
 ![](./badges/version.svg)
 
-- Working at <a href="https://enocean.com">EnOcean</a>
-- 4 years of experience as a full-stack web engineer, 5+ more years as a hobbyist
-- Self-taught programmer
-- Love using and contributing to open source projects
-- Bachelor's in Automation & Electronics
+<div align="left">
+  - Working at <a href="https://enocean.com">EnOcean</a>
+  - 4 years of experience as a full-stack web engineer, 5+ more years as a hobbyist
+  - Self-taught programmer
+  - Love using and contributing to open source projects
+  - Bachelor's in Automation & Electronics
+</div>
+
+</div>
 
 ### Workflow
   <ul>
