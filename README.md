@@ -58,6 +58,9 @@ vim: shiftwidth=2
     <li>
       <a href="https://git-scm.com">
         <img align="center" height="16" src="./icons/git-with-text.svg">
+      </a> <sub>●</sub>
+      <a href="https://opencode.ai">
+        <img align="center" height="15" src="./icons/opencode.svg">
       </a>
     </li>
   </ul>
