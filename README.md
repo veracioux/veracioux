@@ -13,16 +13,22 @@ vim: shiftwidth=2
   </a>
 </p>
 
-**About me**
+---
+
+I'm a self-taught full-stack software engineer, primarily web-based but skilled
+in various other languages and paradigms.
+
+### About me
 
 ![](./badges/version.svg)
 
-<!-- TODO -->
-
-- Automation & Electronics engineer • Graduate student
+- Working at <a href="https://enocean.com">EnOcean</a>
+- 4 years of experience as a full-stack web engineer, 5+ more years as a hobbyist
 - Self-taught programmer
 - Love using and contributing to open source projects
-- Workflow:
+- Bachelor's in Automation & Electronics
+
+### Workflow
   <ul>
     <li>
       <a href="https://archlinux.org">
@@ -69,7 +75,6 @@ vim: shiftwidth=2
     </li>
   </ul>
 
-<!-- TODO add tem after git -->
 ---
 <div align="center">
 <table>
