@@ -120,7 +120,7 @@ vim: shiftwidth=2
 
 <table>
 <tr>
-  <th colspan="2">
+  <th>
     <p>
       <a href="https://flameshot.org">
         <img height="180" src="https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/preview/animatedUsage.gif">
@@ -132,6 +132,16 @@ vim: shiftwidth=2
     </a><br/>
     The best screenshot tool :heart: <br/>
     <code>(<a href="https://github.com/search?q=repo%3Aflameshot-org%2Fflameshot+author%3Averacioux">my contributions</a>)</code>
+  </th>
+  <th>
+    <p>
+      <a href="https://opencode.ai">
+        <img height="150" src="./media/opencode.gif">
+      </a>
+    </p>
+    <a href="https://opencode.ai">Opencode</a><br/>
+    The AI coding agent built for the terminal<br/>
+    <code>(<a href="https://github.com/search?q=repo%3Asst%2Fopencode+author%3Averacioux">my contributions</a>)</code>
   </th>
 </tr>
 <tr>
@@ -149,16 +159,6 @@ vim: shiftwidth=2
     <a href="https://github.com/veracioux/shdocker">Shdocker</a><br/>
     Don't repeat your Dockerfiles<br/>
     <code>(original creator)</code>
-  </th>
-  <th>
-    <p>
-      <a href="https://opencode.ai">
-        <img height="150" src="./media/opencode.gif">
-      </a>
-    </p>
-    <a href="https://opencode.ai">Opencode</a><br/>
-    The AI coding agent built for the terminal<br/>
-    <code>(<a href="https://github.com/search?q=repo%3Asst%2Fopencode+author%3Averacioux">my contributions</a>)</code>
   </th>
 </tr>
 </table>
