@@ -72,10 +72,6 @@ in various other languages and paradigms.
       <a href="https://opencode.ai">
         <img align="center" height="15" src="./icons/opencode.svg">
       </a> <sub>●</sub>
-      <a href="https://www.docker.com">
-        <img align="center" height="25" src="./icons/docker.svg">
-        <sub><code>Docker</code></sub>
-      </a>
     </li>
   </ul>
 
@@ -115,7 +111,6 @@ in various other languages and paradigms.
     <td>
       <b>Other tools</b> <br>
       <a>
-        <img align="center" height="25" src="./icons/docker.svg">&nbsp;
         <img align="center" height="30" src="./icons/git-with-text.svg">&nbsp;
         <img align="center" height="30" src="./icons/linux.svg">&nbsp;
         <img align="center" height="28" src="./icons/bash-dark.svg">
