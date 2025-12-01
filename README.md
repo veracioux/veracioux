@@ -29,35 +29,35 @@ vim: shiftwidth=2
         <img align="center" height="25" src="./icons/archlinux.svg">
       </a> <sub>●</sub>
       <a href="https://github.com/veracioux/dotfiles">
-        <img align="center" height="15" src="./icons/git.svg">
+        <img align="center" height="20" src="./icons/git.svg">
         <sub><code>dotfiles</code></sub>
       </a> <sub>●</sub>
       <a href="https://i3wm.org">
-        <img align="center" height="17" src="./icons/i3.svg">
+        <img align="center" height="20" src="./icons/i3.svg">
         <sub><code>i3wm</code></sub>
       </a>
     </li>
     <li>
       <a href="https://github.com/alacritty/alacritty">
-        <img align="center" height="17" src="./icons/alacritty.svg">
+        <img align="center" height="20" src="./icons/alacritty.svg">
         <sub><code>alacritty</code></sub></a> <sub>●</sub>
         <a href="https://fishshell.com">
-          <img align="center" height="22" src="./icons/fish.png">
+          <img align="center" height="26" src="./icons/fish.png">
           <sub><code>fish</code></sub>
         </a>
     </li>
     <li>
       <a href="https://neovim.io">
-        <img align="center" height="17" src="./icons/neovim.svg">
+        <img align="center" height="22" src="./icons/neovim.svg">
       </a> <sub>●</sub>
       <a href="https://www.gnu.org/software/emacs/emacs.html">
-        <img align="center" height="17" src="./icons/emacs.svg">
+        <img align="center" height="22" src="./icons/emacs.svg">
         <sub><code>Emacs</code></sub>
       </a>
     </li>
     <li>
       <a href="https://git-scm.com">
-        <img align="center" height="15" src="./icons/git-with-text.svg">
+        <img align="center" height="16" src="./icons/git-with-text.svg">
       </a>
     </li>
   </ul>
@@ -72,10 +72,10 @@ vim: shiftwidth=2
       <a>
         <img align="center" height="30" src="./icons/python.svg">&nbsp;
         <img align="center" height="30" src="./icons/typescript.svg">&nbsp;
-        <img align="center" height="30" src="./icons/golang.svg">&nbsp;
-        <img align="center" height="30" src="./icons/c.svg">&nbsp;
-        <img align="center" height="30" src="./icons/cpp.svg">&nbsp;
-        <img align="center" height="30" src="./icons/java.svg">
+        <img align="center" height="25" src="./icons/golang.svg">&nbsp;
+        <img align="center" height="32" src="./icons/c.svg">&nbsp;
+        <img align="center" height="32" src="./icons/cpp.svg">&nbsp;
+        <img align="center" height="32" src="./icons/java.svg">
       </a>
     </td>
   </tr>
@@ -88,9 +88,9 @@ vim: shiftwidth=2
         <img align="center" height="30" src="./icons/nestjs.svg">&nbsp;
         <img align="center" height="30" src="./icons/postgres.svg">&nbsp;
         <img align="center" height="30" src="./icons/redis.svg">&nbsp;
-        <img align="center" height="30" src="./icons/vue.svg">&nbsp;
-        <img align="center" height="30" src="./icons/nginx.svg">&nbsp;
-        <img align="center" height="30" src="./icons/react.svg">&nbsp;
+        <img align="center" height="24" src="./icons/vue.svg">&nbsp;
+        <img align="center" height="16" src="./icons/nginx.svg">&nbsp;
+        <img align="center" height="25" src="./icons/react.svg">&nbsp;
         <img align="center" height="30" src="./icons/qt.svg">
       </a>
     </td>
@@ -99,10 +99,10 @@ vim: shiftwidth=2
     <td>
       <b>Other tools</b> <br>
       <a>
-        <img align="center" height="30" src="./icons/docker.svg">&nbsp;
+        <img align="center" height="25" src="./icons/docker.svg">&nbsp;
         <img align="center" height="30" src="./icons/git-with-text.svg">&nbsp;
         <img align="center" height="30" src="./icons/linux.svg">&nbsp;
-        <img align="center" height="30" src="./icons/bash-dark.svg">
+        <img align="center" height="28" src="./icons/bash-dark.svg">
       </a>
     </td>
   </tr>
