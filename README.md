@@ -61,39 +61,50 @@ vim: shiftwidth=2
 <div align="center">
 <table>
   <tr>
-     <td>
-       <b>Languages & Frameworks</b> <br>
-       <a>
-       <img align="center" height="30" src="./icons/python.svg">&nbsp;
-       <img align="center" height="30" src="./icons/typescript.svg">&nbsp;
-       <img align="center" height="30" src="./icons/golang.svg">&nbsp;
-       <img align="center" height="30" src="./icons/c.svg">&nbsp;
-       <img align="center" height="30" src="./icons/cpp.svg">&nbsp;
-       <img align="center" height="30" src="./icons/java.svg">&nbsp;
-       <img align="center" height="30" src="./icons/nodejs.svg">&nbsp;
-       <img align="center" height="30" src="./icons/angular.svg">&nbsp;
-       <img align="center" height="30" src="./icons/nestjs.svg">&nbsp;
-       <img align="center" height="30" src="./icons/postgres.svg">&nbsp;
-       <img align="center" height="30" src="./icons/redis.svg">&nbsp;
-       <img align="center" height="30" src="./icons/vue.svg">&nbsp;
-       <img align="center" height="30" src="./icons/nginx.svg">&nbsp;
-       <img align="center" height="30" src="./icons/react.svg">&nbsp;
-       <img align="center" height="30" src="./icons/qt.svg">
-       </a>
-     </td>
-     <td>
-       <b>Other tools</b> <br>
-       <a>
-         <img align="center" height="30" src="./icons/docker.svg">&nbsp;
-         <img align="center" height="30" src="./icons/git-with-text.svg">&nbsp;
-         <img align="center" height="30" src="./icons/linux.svg">&nbsp;
-         <img align="center" height="30" src="./icons/bash-dark.svg">
-       </a>
-     </td>
+    <td>
+      <b>Languages</b> <br>
+      <a>
+        <img align="center" height="30" src="./icons/python.svg">&nbsp;
+        <img align="center" height="30" src="./icons/typescript.svg">&nbsp;
+        <img align="center" height="30" src="./icons/golang.svg">&nbsp;
+        <img align="center" height="30" src="./icons/c.svg">&nbsp;
+        <img align="center" height="30" src="./icons/cpp.svg">&nbsp;
+        <img align="center" height="30" src="./icons/java.svg">
+      </a>
+    </td>
   </tr>
-  <tr><!-- Skip zebra-striping --></tr>
   <tr>
-    <td colspan="2">
+    <td>
+      <b>Technologies</b> <br>
+      <a>
+        <img align="center" height="30" src="./icons/nodejs.svg">&nbsp;
+        <img align="center" height="30" src="./icons/angular.svg">&nbsp;
+        <img align="center" height="30" src="./icons/nestjs.svg">&nbsp;
+        <img align="center" height="30" src="./icons/postgres.svg">&nbsp;
+        <img align="center" height="30" src="./icons/redis.svg">&nbsp;
+        <img align="center" height="30" src="./icons/vue.svg">&nbsp;
+        <img align="center" height="30" src="./icons/nginx.svg">&nbsp;
+        <img align="center" height="30" src="./icons/react.svg">&nbsp;
+        <img align="center" height="30" src="./icons/qt.svg">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Other tools</b> <br>
+      <a>
+        <img align="center" height="30" src="./icons/docker.svg">&nbsp;
+        <img align="center" height="30" src="./icons/git-with-text.svg">&nbsp;
+        <img align="center" height="30" src="./icons/linux.svg">&nbsp;
+        <img align="center" height="30" src="./icons/bash-dark.svg">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
       <a>
         <img src="https://github-readme-stats.vercel.app/api?username=veracioux&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&icon_color=ec407a&title_color=ff3860&text_color=7c4dff&bg_color=00000000">
       </a>
