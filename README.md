@@ -23,35 +23,35 @@ vim: shiftwidth=2
   <ul>
     <li>
       <a href="https://archlinux.org">
-        <img align="center" height="25" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png">
+        <img align="center" height="25" src="./icons/archlinux.svg">
       </a> <sub>●</sub>
       <a href="https://github.com/veracioux/dotfiles">
-        <img align="center" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/120px-Git-logo-orange.svg.png">
+        <img align="center" height="15" src="./icons/git.svg">
         <sub><code>dotfiles</code></sub>
       </a> <sub>●</sub>
-      <a href="https://i3wm.org"><img align="center" height="17" src="https://i3wm.org/img/logo.svg"></a>
+      <a href="https://i3wm.org"><img align="center" height="17" src="./icons/i3.svg"></a>
     </li>
     <li>
       <a href="https://github.com/alacritty/alacritty">
-        <img align="center" height="17" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png">
+        <img align="center" height="17" src="./icons/alacritty.svg">
         <sub><code>alacritty</code></sub></a> <sub>●</sub>
         <a href="https://fishshell.com">
-          <img align="center" height="22" src="https://fishshell.com/docs/current/_static/fish.png">
+          <img align="center" height="22" src="./icons/fish.png">
           <sub><code>fish</code></sub>
         </a>
     </li>
     <li>
       <a href="https://neovim.io">
-        <img align="center" height="17" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png">
+        <img align="center" height="17" src="./icons/neovim.svg">
       </a> <sub>●</sub>
       <a href="https://www.gnu.org/software/emacs/emacs.html">
-        <img align="center" height="17" src="https://www.gnu.org/software/emacs/images/emacs.png">
+        <img align="center" height="17" src="./icons/emacs.svg">
         <sub><code>Emacs</code></sub>
       </a>
     </li>
     <li>
       <a href="https://git-scm.com">
-        <img align="center" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/120px-Git-logo-orange.svg.png">
+        <img align="center" height="15" src="./icons/git.svg">
       </a>
     </li>
   </ul>
