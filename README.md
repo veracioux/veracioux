@@ -61,31 +61,35 @@ vim: shiftwidth=2
 <div align="center">
 <table>
   <tr>
-    <td>
-      <b>Languages & Frameworks</b> <br>
-      <a>
-      <img align="center" height="46" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png">
-      <img align="center" height="46" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png">
-      <img align="center" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-      <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-      <img align="center" height="36" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
-      <img align="center" height="29" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png">
-      <img align="center" height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/150px-Qt_logo_2016.svg.png">
-      </a>
-    </td>
-    <td>
-      <b>Other tools</b> <br>
-      <!-- TODO add cmake -->
-      <a>
-        <img align="center" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
-        <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/linux/linux.png">
-        <img align="center" height="55" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/bash/bash.png">
-        <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/latex/latex.png">
-      </a>
-      <a href="https://www.sphinx-doc.org">.
-        <img align="center" height="30" src="https://www.sphinx-doc.org/en/master/_static/sphinx.png">
-      </a>
-    </td>
+     <td>
+       <b>Languages & Frameworks</b> <br>
+       <a>
+       <img align="center" height="30" src="./icons/python.svg">
+       <img align="center" height="30" src="./icons/typescript.svg">
+       <img align="center" height="30" src="./icons/golang.svg">
+       <img align="center" height="30" src="./icons/c.svg">
+       <img align="center" height="30" src="./icons/cpp.svg">
+       <img align="center" height="30" src="./icons/java.svg">
+       <img align="center" height="30" src="./icons/nodejs.svg">
+       <img align="center" height="30" src="./icons/angular.svg">
+       <img align="center" height="30" src="./icons/nestjs.svg">
+       <img align="center" height="30" src="./icons/postgres.svg">
+       <img align="center" height="30" src="./icons/redis.svg">
+       <img align="center" height="30" src="./icons/vue.svg">
+       <img align="center" height="30" src="./icons/nginx.svg">
+       <img align="center" height="30" src="./icons/react.svg">
+       <img align="center" height="30" src="./icons/qt.svg">
+       </a>
+     </td>
+     <td>
+       <b>Other tools</b> <br>
+       <a>
+         <img align="center" height="30" src="./icons/docker.svg">
+         <img align="center" height="30" src="./icons/git-with-text.svg">
+         <img align="center" height="30" src="./icons/linux.svg">
+         <img align="center" height="30" src="./icons/bash-dark.svg">
+       </a>
+     </td>
   </tr>
   <tr><!-- Skip zebra-striping --></tr>
   <tr>
