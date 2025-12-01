@@ -1,6 +1,4 @@
-<!--
-vim: shiftwidth=2
--->
+---
 
 <p align="center">
   <img src="./hello.svg">
