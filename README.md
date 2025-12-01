@@ -135,7 +135,7 @@ vim: shiftwidth=2
   <th>
     <p>
       <a href="https://github.com/veracioux/tuterm">
-        <img height="150" src="https://gist.github.com/veracioux/66336d488e8d87c7b3fb696c5dbd93d1/raw/4b8bc0b043faf166abc92e12fc0bfb5acea55345/tuterm-demo.svg">
+        <img height="150" src="https://gist.githubusercontent.com/veracioux/66336d488e8d87c7b3fb696c5dbd93d1/raw/4b8bc0b043faf166abc92e12fc0bfb5acea55345/tuterm-demo.svg">
       </a>
     </p>
     <a href="https://github.com/veracioux/tuterm">Tuterm</a><br/>
