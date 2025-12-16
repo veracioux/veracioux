@@ -97,8 +97,9 @@ in various other languages and paradigms.
         <img align="center" height="30" src="./icons/angular.svg">&nbsp;
         <img align="center" height="30" src="./icons/nestjs.svg">&nbsp;
         <img align="center" height="30" src="./icons/postgres.svg">&nbsp;
-        <img align="center" height="30" src="./icons/redis.svg">&nbsp;
-        <img align="center" height="24" src="./icons/vue.svg">&nbsp;
+         <img align="center" height="30" src="./icons/redis.svg">&nbsp;
+         <img align="center" height="30" src="./icons/rabbitmq.svg">&nbsp;
+         <img align="center" height="24" src="./icons/vue.svg">&nbsp;
         <img align="center" height="16" src="./icons/nginx.svg">&nbsp;
         <img align="center" height="25" src="./icons/react.svg">&nbsp;
         <!-- <img align="center" height="30" src="./icons/qt.svg"> -->
