@@ -83,9 +83,9 @@ in various other languages and paradigms.
         <img align="center" height="30" src="./icons/python.svg">&nbsp;
         <img align="center" height="30" src="./icons/typescript.svg">&nbsp;
         <img align="center" height="25" src="./icons/golang.svg">&nbsp;
-        <img align="center" height="32" src="./icons/c.svg">&nbsp;
-        <img align="center" height="32" src="./icons/cpp.svg">&nbsp;
-        <img align="center" height="32" src="./icons/java.svg">
+        <!-- <img align="center" height="32" src="./icons/c.svg">&nbsp; -->
+        <!-- <img align="center" height="32" src="./icons/cpp.svg">&nbsp; -->
+        <!-- <img align="center" height="32" src="./icons/java.svg"> -->
       </a>
     </td>
   </tr>
@@ -101,7 +101,7 @@ in various other languages and paradigms.
         <img align="center" height="24" src="./icons/vue.svg">&nbsp;
         <img align="center" height="16" src="./icons/nginx.svg">&nbsp;
         <img align="center" height="25" src="./icons/react.svg">&nbsp;
-        <img align="center" height="30" src="./icons/qt.svg">
+        <!-- <img align="center" height="30" src="./icons/qt.svg"> -->
       </a>
     </td>
   </tr>
