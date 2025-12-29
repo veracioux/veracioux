@@ -121,9 +121,9 @@ in various other languages and paradigms.
 <table>
   <tr>
     <td>
-      <a href="https://github-readme-stats.vercel.app/">
+      <a href="https://veracioux.me/github-stats">
         <img
-       alt="GitHub stats unavailable"   src="https://github-readme-stats.vercel.app/api?username=veracioux&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&icon_color=ec407a&title_color=ff3860&text_color=7c4dff&bg_color=00000000"
+       alt="GitHub stats unavailable" src="https://veracioux.me/github-stats"
         />
       </a>
     </td>
