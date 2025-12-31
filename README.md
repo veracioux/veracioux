@@ -6,7 +6,7 @@
   <a href="https://matrix.to/#/@veracioux:matrix.org">
     <img src="./badges/matrix.svg">
   </a>
-  <a href="https://discord.com/users/881170878799417354">
+  <a href="https://discord.gg/5AzVbp7u">
     <img src="./badges/discord.svg">
   </a>
 </p>
