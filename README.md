@@ -26,6 +26,61 @@ in various other languages and paradigms.
 - ❤️ Love using and contributing to open source projects
 - 🎓 Bachelor's in Automation & Electronics
 
+### Tech Stack 💻
+
+<table>
+  <thead>
+    <th>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </th>
+    <th>
+      Frameworks and Technologies
+    </th>
+    <th>
+      Other tools
+    </th>
+  </thead>
+  <tr>
+    <td align="center">
+      <br>
+      <a>
+        <img align="center" height="30" src="./icons/python.svg">&nbsp;
+        <img align="center" height="30" src="./icons/typescript.svg">&nbsp;
+        <img align="center" height="25" src="./icons/golang.svg">&nbsp;
+        <!-- <img align="center" height="32" src="./icons/c.svg">&nbsp; -->
+        <!-- <img align="center" height="32" src="./icons/cpp.svg">&nbsp; -->
+        <!-- <img align="center" height="32" src="./icons/java.svg"> -->
+      </a>
+      <br><br>
+    </td>
+    <td align="center">
+      <br>
+      <a>
+        <img align="center" height="30" src="./icons/nodejs.svg">&nbsp;
+        <img align="center" height="30" src="./icons/angular.svg">&nbsp;
+        <img align="center" height="30" src="./icons/nestjs.svg">&nbsp;
+        <img align="center" height="30" src="./icons/postgres.svg">&nbsp;
+        <img align="center" height="30" src="./icons/redis.svg">&nbsp;
+        <img align="center" height="30" src="./icons/rabbitmq.svg">&nbsp;
+        <img align="center" height="24" src="./icons/vue.svg">&nbsp;
+        <img align="center" height="16" src="./icons/nginx.svg">&nbsp;
+        <img align="center" height="25" src="./icons/react.svg">&nbsp;
+        <!-- <img align="center" height="30" src="./icons/qt.svg"> -->
+      </a>
+      <br><br>
+    </td>
+    <td align="center">
+      <br>
+      <a>
+        <img align="center" height="30" src="./icons/git-with-text.svg">&nbsp;
+        <img align="center" height="30" src="./icons/linux.svg">&nbsp;
+        <img align="center" height="28" src="./icons/bash-dark.svg">
+      </a>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
 ### Workflow 🛠️
   <ul>
     <li>
@@ -75,51 +130,6 @@ in various other languages and paradigms.
 
 ---
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <b>Languages</b> <br><br>
-      <a>
-        <img align="center" height="30" src="./icons/python.svg">&nbsp;
-        <img align="center" height="30" src="./icons/typescript.svg">&nbsp;
-        <img align="center" height="25" src="./icons/golang.svg">&nbsp;
-        <!-- <img align="center" height="32" src="./icons/c.svg">&nbsp; -->
-        <!-- <img align="center" height="32" src="./icons/cpp.svg">&nbsp; -->
-        <!-- <img align="center" height="32" src="./icons/java.svg"> -->
-      </a>
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Frameworks and Technologies</b> <br><br>
-      <a>
-        <img align="center" height="30" src="./icons/nodejs.svg">&nbsp;
-        <img align="center" height="30" src="./icons/angular.svg">&nbsp;
-        <img align="center" height="30" src="./icons/nestjs.svg">&nbsp;
-        <img align="center" height="30" src="./icons/postgres.svg">&nbsp;
-         <img align="center" height="30" src="./icons/redis.svg">&nbsp;
-         <img align="center" height="30" src="./icons/rabbitmq.svg">&nbsp;
-         <img align="center" height="24" src="./icons/vue.svg">&nbsp;
-        <img align="center" height="16" src="./icons/nginx.svg">&nbsp;
-        <img align="center" height="25" src="./icons/react.svg">&nbsp;
-        <!-- <img align="center" height="30" src="./icons/qt.svg"> -->
-      </a>
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Other tools</b> <br><br>
-      <a>
-        <img align="center" height="30" src="./icons/git-with-text.svg">&nbsp;
-        <img align="center" height="30" src="./icons/linux.svg">&nbsp;
-        <img align="center" height="28" src="./icons/bash-dark.svg">
-      </a>
-      <br><br>
-    </td>
-  </tr>
-</table>
 
 <table>
   <tr>
