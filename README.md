@@ -78,7 +78,7 @@ in various other languages and paradigms.
 <table>
   <tr>
     <td>
-      <b>Languages</b> <br>
+      <b>Languages</b> <br><br>
       <a>
         <img align="center" height="30" src="./icons/python.svg">&nbsp;
         <img align="center" height="30" src="./icons/typescript.svg">&nbsp;
@@ -87,11 +87,12 @@ in various other languages and paradigms.
         <!-- <img align="center" height="32" src="./icons/cpp.svg">&nbsp; -->
         <!-- <img align="center" height="32" src="./icons/java.svg"> -->
       </a>
+      <br><br>
     </td>
   </tr>
   <tr>
     <td>
-      <b>Frameworks and Technologies</b> <br>
+      <b>Frameworks and Technologies</b> <br><br>
       <a>
         <img align="center" height="30" src="./icons/nodejs.svg">&nbsp;
         <img align="center" height="30" src="./icons/angular.svg">&nbsp;
@@ -104,16 +105,18 @@ in various other languages and paradigms.
         <img align="center" height="25" src="./icons/react.svg">&nbsp;
         <!-- <img align="center" height="30" src="./icons/qt.svg"> -->
       </a>
+      <br><br>
     </td>
   </tr>
   <tr>
     <td>
-      <b>Other tools</b> <br>
+      <b>Other tools</b> <br><br>
       <a>
         <img align="center" height="30" src="./icons/git-with-text.svg">&nbsp;
         <img align="center" height="30" src="./icons/linux.svg">&nbsp;
         <img align="center" height="28" src="./icons/bash-dark.svg">
       </a>
+      <br><br>
     </td>
   </tr>
 </table>
